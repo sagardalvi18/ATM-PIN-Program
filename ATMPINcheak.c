@@ -1,5 +1,6 @@
 // Name-Sagar Ravindra Dalvi
-//PRN- 2503033111372L007#include <stdio.h>
+//PRN- 2503033111372L007
+#include <stdio.h>
 
 int main() {
     int pin;
